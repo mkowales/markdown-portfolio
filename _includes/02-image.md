@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![mkowales cool avatar image](mkowales%20-%20avatar.jpg)
